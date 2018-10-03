@@ -35,7 +35,7 @@ namespace Packt.ARCoreDesign
     /// <summary>
     /// Controls the HelloAR example.
     /// </summary>
-    public class HelloARController : MonoBehaviour
+    public class SceneController : MonoBehaviour
     {
         /// <summary>
         /// The first-person camera being used to render the passthrough camera image (i.e. AR background).
